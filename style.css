@@ -1,0 +1,11 @@
+.container {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  width: 960px;
+}
+
+.square {
+  box-sizing: border-box;
+  border: solid 1px black;
+}
