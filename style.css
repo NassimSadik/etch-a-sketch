@@ -1,3 +1,9 @@
+.grid-button {
+  margin: auto;
+  margin-bottom: 24px;
+  display: block;
+}
+
 .container {
   margin: auto;
   display: flex;
